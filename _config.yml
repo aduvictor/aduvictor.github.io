@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url:  "https://github.com/aduvictor"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -261,7 +261,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-include-cache
   
 
@@ -270,7 +270,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+ #  - jekyll-feed
   - jekyll-include-cache
 
 
