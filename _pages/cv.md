@@ -1,5 +1,5 @@
 ---
-permalink: /victor_adu_cv/
+permalink: /cv/
 layout: splash
 classes: wide
 ---
