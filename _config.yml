@@ -19,14 +19,14 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Victor Adu"
 title_separator          : "-"
-subtitle                 : "Personal website to document my journey"
+subtitle                 : # "Personal website to document my journey"
 name                     : "Victor Adu"
 description              : "Graduate Mechanical and Mechatronics Engineer."
 url                      : "https://aduvictor.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aduvictor/aduvictor.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/logo-2.png"
+logo                     : # "/images/logo-2.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -68,7 +68,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
@@ -105,7 +105,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : false; #google-gtag # false (default), "google", "google-universal
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -319,8 +319,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      # author_profile: false
+      # read_time: true
+      # comments: # true
+      # share: true
+      # related: true
