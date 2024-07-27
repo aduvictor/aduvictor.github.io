@@ -154,7 +154,7 @@ footer:
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aduvictor/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
