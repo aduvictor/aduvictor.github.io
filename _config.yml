@@ -26,7 +26,7 @@ url                      : "https://aduvictor.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aduvictor/aduvictor.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/logo-2.jpg"
+logo                     : "/images/logo-2.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Victor Adu"
-  avatar           : "/images/Dami-11.jpg"
+  avatar           : "/images/Dami.jpeg"
   bio              : "Graduate Mechanical and Mechatronics Engineer"
   location         : "Cape Town, South Africa"
   email            : "aduvictor2400@gmail.com"
