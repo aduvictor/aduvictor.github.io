@@ -19,14 +19,14 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Victor Adu"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Personal website to document my journey"
 name                     : "Victor Adu"
 description              : "Graduate Mechanical and Mechatronics Engineer."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://aduvictor.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : aduvictor/aduvictor.github.io
+repository               : "aduvictor/aduvictor.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/images/Dami-11.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
