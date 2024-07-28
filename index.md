@@ -4,7 +4,7 @@ author_profile: true
 header:
   image: images/Dami.jpeg
 intro: 
-  - title: "About Me"
+  - title: ""
     excerpt: "Hi, my name is Victor Adu. I'm a recent graduate of Mechanical and Mechanical Engineering from the [University of Cape Town](https://www.uct.ac.za)
      "
 ---
