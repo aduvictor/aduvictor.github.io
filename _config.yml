@@ -339,6 +339,6 @@ defaults:
   # _projects
   - scope:
       path: "_projects"
-      type: posts
+      type: collection
     values:
       layout: single
