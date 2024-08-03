@@ -4,7 +4,7 @@ layout: collection
 permalink: /projects/
 collection: projects
 entries_layout: grid
-author_profile: true
+author_profile: false
 sort_by: date
 sort_order: reverse
 classes: wide
