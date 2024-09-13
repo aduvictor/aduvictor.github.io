@@ -8,10 +8,10 @@ intro:
     excerpt: "" 
 ---
 
-<div style="position: relative; text-align: center; color: white;">
+<div style="position: relative; width: 100%; text-align: center; color: white;">
   <!-- Image with text overlay -->
-  <img src="{{ site.baseurl }}/images/Dami.jpeg" style="width: 100%; display: block;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); padding: 20px; background-color: rgba(0, 0, 0, 0.5);">
+  <img src="{{ site.baseurl }}/images/Dami.jpeg" style="width: 100%; height: auto; display: block;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); padding: 20px; background-color: rgba(0, 0, 0, 0.5); max-width: 80%; width: fit-content;">
     <h1>Welcome! I'm Victor Adu</h1>
     <p>
       I recently graduated with a degree in Mechanical and Mechatronics Engineering from the
