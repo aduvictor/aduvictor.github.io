@@ -2,7 +2,7 @@
 layout: splash
 author_profile: false
 header:
-  image: images/Dami.jpeg
+  # image: images/Dami.jpeg
 intro:
   - title: ""
     excerpt: "" 
